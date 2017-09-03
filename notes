@@ -1,0 +1,63 @@
+1  Encrypted Password – The passwords are stored using base64_encode method.
+                        Each password needs two columns to store it in database. One is to store encrypted
+                        password and other is to store salt used to encrypt the password.
+
+
+2  user id – I am generating unique user id in php using uniqid(”, true) function.
+
+3 registration:
+        name, email and password as POST parameters
+
+        URL: http://localhost/ShoppingBackend/register.php
+        PARAMS: name, email, password
+
+
+        Registration success response:
+        {
+            "error": false,
+            "uid": "55fa7220a2c187.50984590",
+            "user": {
+                "name": "Yong Chen",
+                "email": "hello@gmail.com",
+                "created_at": "2017-08-17 13:26:16",
+                "updated_at": null
+            }
+        }
+
+
+        Registration error response:
+        {
+            "error": true,
+            "error_msg": "detailed error occurred in registration!"
+        }
+
+
+4  login:
+
+    URL: http://localhost/ShoppingBackend/login.php
+    PARAMS: email, password
+
+    Login Success response:
+    {
+        "error": false,
+        "uid": "55fa7220a2c187.50984590",
+        "user": {
+                        "name": "Yong Chen",
+                        "email": "hello@gmail.com",
+                        "created_at": "2017-08-17 13:26:16",
+                        "updated_at": null
+        }
+    }
+
+    Login error response:
+    {
+        "tag": "login",
+        "success": 0,
+        "error": 1,
+        "error_msg": "Login credentials are incorrect. Please try again!"
+    }
+
+5  use  parent folder:
+
+//          require_once '../helpers/debug_function.php';  wrong method
+            require_once(dirname(__FILE__) . "\..\helpers\debug_function.php");
