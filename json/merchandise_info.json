@@ -1,0 +1,62 @@
+[
+  {
+    "name": "True Romance2",
+    "numOfSongs": 13,
+    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise1.png"
+  },
+
+  {
+    "name": "Xscpae",
+    "numOfSongs": 8	,
+    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise2.png"
+  },
+
+  {
+    "name": "Maroon 5",
+    "numOfSongs": 11	,
+    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise3.png"
+  },
+
+  {
+    "name": "Born to Die",
+    "numOfSongs": 12,
+    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise4.png"
+  },
+
+  {
+    "name": "Honeymoon",
+    "numOfSongs": 14	,
+    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise5.png"
+  },
+
+  {
+    "name": "I Need a Doctor",
+    "numOfSongs": 28	,
+    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise6.png"
+  },
+
+  {
+    "name": "Loud",
+    "numOfSongs": 38	,
+    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise7.png"
+  },
+
+  {
+    "name": "Legend",
+    "numOfSongs": 8	,
+    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise8.png"
+  },
+
+  {
+    "name": "Hello",
+    "numOfSongs": 11	,
+    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise9.png"
+  },
+
+  {
+    "name": "Greatest Hits",
+    "numOfSongs": 17	,
+    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise10.png"
+  },
+
+]
