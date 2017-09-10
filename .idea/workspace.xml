@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9232c17-25db-4ac5-ac0a-c0859e1de997" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banner/a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banner/b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banner/b1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banner/b2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banner/b3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banner/c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banner/d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banner/e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banner/f.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/debug_log.txt" afterPath="$PROJECT_DIR$/debug_log.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/json/merchandise_info.json" afterPath="$PROJECT_DIR$/json/merchandise_info.json" />
@@ -94,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/json/merchandise_info.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
-              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -208,6 +199,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -234,7 +226,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -309,22 +300,26 @@
       <workItem from="1504563167184" duration="5858000" />
       <workItem from="1504679323402" duration="1587000" />
       <workItem from="1504752423784" duration="1081000" />
-      <workItem from="1504849403672" duration="20000" />
+      <workItem from="1504849403672" duration="172000" />
+      <workItem from="1504983647966" duration="1275000" />
+      <workItem from="1504991666412" duration="119000" />
+      <workItem from="1505014299223" duration="3280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34271000" />
+    <option name="totallyTimeSpent" value="39097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14269407" sideWeight="0.5015625" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14041096" sideWeight="0.50364584" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14069767" sideWeight="0.4984375" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14041096" sideWeight="0.49635416" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -728,19 +723,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/include/DbFunctions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1950">
-          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="66" selection-end-column="79" />
-          <folding>
-            <marker date="1504405329645" expanded="true" signature="667:773" ph="INSERT INTO users... " />
-            <marker date="1504405329645" expanded="true" signature="1027:1062" ph="SELECT * FRO... users" />
-            <marker date="1504405329645" expanded="true" signature="1471:1506" ph="SELECT * FRO... users" />
-            <marker date="1504405329645" expanded="true" signature="2365:2404" ph="SELECT email... users" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/notes">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1590">
@@ -773,10 +755,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/include/DbFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="66" selection-end-column="79" />
+          <folding>
+            <marker date="1504405329645" expanded="true" signature="667:773" ph="INSERT INTO users... " />
+            <marker date="1504405329645" expanded="true" signature="1027:1062" ph="SELECT * FRO... users" />
+            <marker date="1504405329645" expanded="true" signature="1471:1506" ph="SELECT * FRO... users" />
+            <marker date="1504405329645" expanded="true" signature="2365:2404" ph="SELECT email... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/json/merchandise_info.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
           <folding />
         </state>
       </provider>
