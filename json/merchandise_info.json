@@ -3,69 +3,69 @@
     "id": 1,
     "name": "True Romance",
     "numOfSongs": 13,
-    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise1.png"
+    "thumbnail_url": "http://10.4.1.72/ShoppingBackend/images/merchandise1.png"
   },
 
   {
     "id": 2,
     "name": "Xscpae",
     "numOfSongs": 8	,
-    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise2.png"
+    "thumbnail_url": "http://10.4.1.72/ShoppingBackend/images/merchandise2.png"
   },
 
   {
     "id": 3,
     "name": "Maroon 5",
-    "numOfSongs": 11	,
-    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise3.png"
+    "numOfSongs": 11,
+    "thumbnail_url": "http://10.4.1.72/ShoppingBackend/images/merchandise3.png"
   },
 
   {
     "id": 4,
     "name": "Born to Die",
     "numOfSongs": 12,
-    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise4.png"
+    "thumbnail_url": "http://10.4.1.72/ShoppingBackend/images/merchandise4.png"
   },
 
   {
     "id": 5,
     "name": "Honeymoon",
-    "numOfSongs": 14	,
-    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise5.png"
+    "numOfSongs": 14,
+    "thumbnail_url": "http://10.4.1.72/ShoppingBackend/images/merchandise5.png"
   },
 
   {
     "id": 6,
     "name": "I Need a Doctor",
-    "numOfSongs": 28	,
-    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise6.png"
+    "numOfSongs": 28,
+    "thumbnail_url": "http://10.4.1.72/ShoppingBackend/images/merchandise6.png"
   },
 
   {
     "id": 7,
     "name": "Loud",
-    "numOfSongs": 38	,
-    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise7.png"
+    "numOfSongs": 38,
+    "thumbnail_url": "http://10.4.1.72/ShoppingBackend/images/merchandise7.png"
   },
 
   {
     "id": 8,
     "name": "Legend",
     "numOfSongs": 8	,
-    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise8.png"
+    "thumbnail_url": "http://10.4.1.72/ShoppingBackend/images/merchandise8.png"
   },
 
   {
     "id": 9,
     "name": "Hello",
-    "numOfSongs": 11	,
-    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise9.png"
+    "numOfSongs": 11,
+    "thumbnail_url": "http://10.4.1.72/ShoppingBackend/images/merchandise9.png"
   },
 
   {
     "id": 10,
     "name": "Greatest Hits",
-    "numOfSongs": 17	,
-    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise10.png"
+    "numOfSongs": 17,
+    "thumbnail_url": "http://10.4.1.72/ShoppingBackend/images/merchandise10.png"
   }
 ]
