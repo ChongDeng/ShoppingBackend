@@ -1,0 +1,86 @@
+[
+  {
+    "banner_urls":[ "http://192.168.1.88/ShoppingBackend/banner/b1.jpg", "http://192.168.1.88/ShoppingBackend/banner/b2.jpg", "http://192.168.1.88/ShoppingBackend/banner/b3.jpg" ],
+    "view_type": 1
+  },
+
+  {
+    "id": 1,
+    "name": "True Romance",
+    "numOfSongs": 13,
+    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise1.png",
+    "view_type": 5
+  },
+
+  {
+    "id": 2,
+    "name": "Xscpae",
+    "numOfSongs": 8	,
+    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise2.png",
+    "view_type": 5
+  },
+
+  {
+    "id": 3,
+    "name": "Maroon 5",
+    "numOfSongs": 11,
+    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise3.png",
+    "view_type": 5
+  },
+
+  {
+    "id": 4,
+    "name": "Born to Die",
+    "numOfSongs": 12,
+    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise4.png",
+    "view_type": 5
+  },
+
+  {
+    "id": 5,
+    "name": "Honeymoon",
+    "numOfSongs": 14,
+    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise5.png",
+    "view_type": 5
+  },
+
+  {
+    "id": 6,
+    "name": "I Need a Doctor",
+    "numOfSongs": 28,
+    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise6.png",
+    "view_type": 5
+  },
+
+  {
+    "id": 7,
+    "name": "Loud",
+    "numOfSongs": 38,
+    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise7.png",
+    "view_type": 5
+  },
+
+  {
+    "id": 8,
+    "name": "Legend",
+    "numOfSongs": 8	,
+    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise8.png",
+    "view_type": 5
+  },
+
+  {
+    "id": 9,
+    "name": "Hello",
+    "numOfSongs": 11,
+    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise9.png",
+    "view_type": 5
+  },
+
+  {
+    "id": 10,
+    "name": "Greatest Hits",
+    "numOfSongs": 17,
+    "thumbnail_url": "http://192.168.1.88/ShoppingBackend/images/merchandise10.png",
+    "view_type": 5
+  }
+]
