@@ -1,7 +1,51 @@
-[
+[  
   {
-    "banner_urls":[ "http://192.168.1.88/ShoppingBackend/banner/b1.jpg", "http://192.168.1.88/ShoppingBackend/banner/b2.jpg", "http://192.168.1.88/ShoppingBackend/banner/b3.jpg" ],
+    "banner_entities":[ 
+						{"url": "http://192.168.1.88/ShoppingBackend/banner/b1.jpg",
+						 "title": "scut",
+						 "target_data": "scut_data"
+						}, 
+						
+						{"url": "http://192.168.1.88/ShoppingBackend/banner/b2.jpg",
+						 "title": "sjsu",
+						 "target_data": "sjsu_data"
+						}, 
+						
+						{"url": "http://192.168.1.88/ShoppingBackend/banner/b3.jpg",
+						 "title": "silicon valley",
+						 "target_data": "silicon_valley_data"
+						}	
+					  ],
     "view_type": 1
+  },
+  
+  {
+	"common_functions" : [
+							{"pic_url": "http://192.168.1.88/ShoppingBackend/images/scan.png",
+							 "pic_description" : "扫一扫",
+							 "target_data": "扫一扫"
+							},
+							
+							{"pic_url": "http://192.168.1.88/ShoppingBackend/images/shopping.png",
+							 "pic_description" : "0元购",
+							 "target_data": "0元购"
+							},
+							
+							{"pic_url": "http://192.168.1.88/ShoppingBackend/images/wallet.png",
+							 "pic_description" : "我的钱包",
+							 "target_data": "我的钱包"
+							},
+							
+							{"pic_url": "http://192.168.1.88/ShoppingBackend/images/like.png",
+							 "pic_description" : "我的关注",
+							 "target_data": "我的关注"
+							}
+						 ],
+	"view_type": 2					
+  },
+  
+  {	
+	"view_type": 4					
   },
 
   {
