@@ -38,3 +38,15 @@ res: Jz2cF+HwPRc4no+mg7peyUyTce5jYzIzNmRlNmU3	at time: 03:08, 15th September
 res: UkIqoqYV11m3PHSMFQcJsQkfDU9iNjdkMTIyNTc5	at time: 18:53, 17th September
 res: UkIqoqYV11m3PHSMFQcJsQkfDU9iNjdkMTIyNTc5	at time: 18:59, 17th September
 res: UkIqoqYV11m3PHSMFQcJsQkfDU9iNjdkMTIyNTc5	at time: 01:11, 18th September
+res: nJad30VAeePUOZc7urY+piM+QIc=	at time: 20:48, 14th October
+res: zfQ9lgfpCv1D/iAKHcdjaMZ/My0yOTRmYmRjZWQ5	at time: 20:48, 14th October
+res: zfQ9lgfpCv1D/iAKHcdjaMZ/My0yOTRmYmRjZWQ5	at time: 20:51, 14th October
+res: zfQ9lgfpCv1D/iAKHcdjaMZ/My0yOTRmYmRjZWQ5	at time: 21:15, 14th October
+res: zfQ9lgfpCv1D/iAKHcdjaMZ/My0yOTRmYmRjZWQ5	at time: 21:20, 14th October
+res: zfQ9lgfpCv1D/iAKHcdjaMZ/My0yOTRmYmRjZWQ5	at time: 21:21, 14th October
+res: zfQ9lgfpCv1D/iAKHcdjaMZ/My0yOTRmYmRjZWQ5	at time: 21:25, 14th October
+res: zfQ9lgfpCv1D/iAKHcdjaMZ/My0yOTRmYmRjZWQ5	at time: 21:39, 14th October
+res: zfQ9lgfpCv1D/iAKHcdjaMZ/My0yOTRmYmRjZWQ5	at time: 21:48, 14th October
+res: zfQ9lgfpCv1D/iAKHcdjaMZ/My0yOTRmYmRjZWQ5	at time: 21:50, 14th October
+res: zfQ9lgfpCv1D/iAKHcdjaMZ/My0yOTRmYmRjZWQ5	at time: 22:00, 14th October
+res: zfQ9lgfpCv1D/iAKHcdjaMZ/My0yOTRmYmRjZWQ5	at time: 22:05, 14th October
